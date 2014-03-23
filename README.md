@@ -14,10 +14,12 @@ Files List
 ============================================================
 
 Week 2: The Activity Class 
+
 ActivityLab
 ActivityLabTest
 
 Week 3: Intents, Permissions, Fragments
+
 FragmentsLab
 FragmentsLabTestPhone
 FragmentsLabTestTablet
@@ -27,22 +29,27 @@ PermissionsLab
 PermissionsLabTest
 
 Week 4: User Interface Classes
+
 UILabs
 UILabsTest
 
 Week 5: Notifications
+
 NotificationsLab
 NotificationsLabTest
 
 Week 6: Graphics
+
 GraphicsLab
 GraphicsLabTest
 
 Week 7: Location
+
 LocationLab
 LocationLabTest
 
 Week 8: Content Provider
+
 ContentProviderLabContentProvider
 ContentProviderLabTest
 ContentProviderLabUser
