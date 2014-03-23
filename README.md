@@ -4,7 +4,11 @@ Programming Mobile Applications for Android Handheld Systems
 My laboratory work submissions to Coursera's "Programming Mobile Applications for Android Handheld Systems" taught by Prof. Adam Porter.
 Feel free to criticize and correct my mistakes. After all, I'm still in the learning phase of mobile development. ;)
 
-For more info, please visit: https://class.coursera.org/android-001
+For more info, please visit the following links: 
+
+[Course Home][https://class.coursera.org/android-001]
+[Course Sylabus][]https://class.coursera.org/android-001/wiki/syllabus]
+[Reviews][http://www.coursetalk.com/coursera/programming-handheld-systems-with-android]
 
 Disclaimer: 
 
