@@ -6,9 +6,9 @@ Feel free to criticize and correct my mistakes. After all, I'm still in the lear
 
 For more info, please visit the following links: 
 
-[Course Home][https://class.coursera.org/android-001]
-[Course Sylabus][]https://class.coursera.org/android-001/wiki/syllabus]
-[Reviews][http://www.coursetalk.com/coursera/programming-handheld-systems-with-android]
+- [Course Home](https://class.coursera.org/android-001)
+- [Course Sylabus](https://class.coursera.org/android-001/wiki/syllabus)
+- [Reviews](http://www.coursetalk.com/coursera/programming-handheld-systems-with-android)
 
 Disclaimer: 
 
